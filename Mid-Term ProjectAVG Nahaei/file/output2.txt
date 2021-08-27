@@ -1,0 +1,4 @@
+Name: Avg	Date: 1398/02/21
+Number	Count	Name		Price	Faktor	Type
+103	2	asdfghg	24000	48000	Clothes
+				All:	48000

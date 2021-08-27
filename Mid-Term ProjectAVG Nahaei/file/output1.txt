@@ -1,0 +1,6 @@
+Name: par	Date: 254765
+Number	Count	Name		Price	Faktor	Type
+Id 12 doesn't find
+Id 1 doesn't find
+234	2	paria	14	28	Books
+				All:	28
